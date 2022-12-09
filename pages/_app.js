@@ -2,6 +2,7 @@
 import "../styles/w3.css"
 import "../styles/railway.css"
 import "../styles/globals.css"
+import "../styles/autoComplete.min.css"
 import Navbar from "../components/Navbar"
 import Header from "../components/Header"
 
